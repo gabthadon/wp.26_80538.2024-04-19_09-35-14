@@ -1,0 +1,45 @@
+[10-Jul-2020 20:05:56 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[24-Jul-2020 07:03:59 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Jul-2020 22:06:03 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[01-Aug-2020 01:59:48 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[05-Aug-2020 22:50:43 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[09-Aug-2020 01:03:45 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Aug-2020 03:14:12 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[01-Sep-2020 23:26:33 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-Sep-2020 21:53:42 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[17-Oct-2020 02:13:52 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-Oct-2020 12:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[05-Nov-2020 22:06:19 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/witnessl/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

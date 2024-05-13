@@ -1,0 +1,86 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = -1
+Files info:
+Site URL = https://witnessline.org
+Data file = /home/witnrhzb/public_html/wp-content/uploads/2022/07/demo-content-import-file_2022-07-26__12-38-03.xml
+Widget file = /home/witnrhzb/public_html/wp-content/uploads/2022/07/demo-widgets-import-file_2022-07-26__12-38-03.json
+Customizer file = /home/witnrhzb/public_html/wp-content/uploads/2022/07/demo-customizer-import-file_2022-07-26__12-38-03.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Search - No Title - Widget already exists
+Recent Posts Advanced - Recent News - Imported
+Categories - No Title - Imported
+
+Sidebar Page : 
+
+Cart - Cart - Imported
+
+Sidebar Shop : 
+
+Filter Products by Price - Filter by price - Imported
+Product Search - No Title - Imported
+Products by Rating list - Top rated products - Imported
+
+Sidebar Footer 1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Sidebar Footer 2 : 
+
+Empty Space - No Title - Imported
+Recent Posts Advanced - Recent Posts - Imported
+
+Sidebar Footer 3 : 
+
+Empty Space - No Title - Imported
+Gallery - Photo Gallery - Imported
+
+Sidebar Footer 4 : 
+
+Empty Space - No Title - Imported
+Text - Contact Info - Imported
+Socials - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
